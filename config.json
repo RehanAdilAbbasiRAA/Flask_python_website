@@ -1,0 +1,18 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blogdata",
+        "production_uri":"mysql://root:@localhost/blogdata",
+        "title":"Clean Blog - By Rehan",
+        "nav_title":"Start Journey with Rehan Adil Abbasi",
+        "facebook_uri":"https://your link here",
+        "github_uri":"https://your link here",
+        "twiter_uri":"https://your link here",
+        "gmail_password":"ycbz lmgv mwch vvhx",
+        "gmail_username":"your@gmail.com",
+        "admin_username":"rehan",
+        "admin_password":"1234",
+        "number_of_posts":4,
+        "upload_location":"C:\\Users\\rehan\\Desktop\\Flask FYP\\uploaded"
+    }
+}
